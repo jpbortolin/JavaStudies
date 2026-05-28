@@ -1,3 +1,3 @@
 # JavaStudies
 
-Estudos sobre Java, PostgreSQL e API Rest.
+Estudos e exercícios feitos em Java
